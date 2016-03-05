@@ -4,7 +4,7 @@ Brought to you by:
 <div align="center"><img src="https://raw.github.com/youldash/iOS/master/Misc/CS%20B.png" width="50%" /></div>
 
 For:
-<div align="center"><img src="https://raw.github.com/youldash/GameDevJeddah/master/Logo.png" width="100%" /></div>
+<div align="center"><img src="https://raw.github.com/youldash/GameDevJeddah/master/Logo.png" width="75%" /></div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/youldash.svg?style=social?style=plastic)](https://twitter.com/youldash)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UQU_CS.svg?style=social?style=plastic)](https://twitter.com/UQU_CS)
