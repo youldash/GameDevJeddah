@@ -12,7 +12,7 @@ For:
 
 ## About
 
-You have made it to the [GameDevJeddah](http://www.meetup.com/Game-Dev-Jeddah/) iOS repo! Congratulations :)
+You have made it to the [GameDevJeddah](http://www.gamedevjeddah.com/) iOS repo! Congratulations :)
 
 This repo hosts supplementary material for **Friday's (March 4, 2016) evening session**.
 
